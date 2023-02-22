@@ -7,3 +7,7 @@ email = "hello@gmail.com
 
 starting_age = 24
 
+#Float
+
+amount_paid = 1224.0
+
