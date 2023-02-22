@@ -11,3 +11,7 @@ starting_age = 24
 
 amount_paid = 1224.0
 
+#Boolean
+
+deposit_paid = true
+
